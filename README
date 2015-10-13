@@ -1,0 +1,3 @@
+Write in binary on the pebble using the up button for 1, down button for 0, and select button for backspace.
+
+Top row shows binary, second row shows hex, and third row shows ascii.
