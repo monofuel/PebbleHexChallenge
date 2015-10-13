@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "monofuel34089@gmail.com",
+    "longName": "Hex Challenge",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hex Challenge",
+    "uuid": "0abb4833-9eba-4d6e-8f33-1e9e4c197fab",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
